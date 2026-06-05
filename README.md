@@ -16,5 +16,5 @@ Authors: Amelia Oo, Anh Tran
 
 <h2>Danceability vs Popularity</h2>
 
-<iframe src="assets/danceability_popularity.html" width="900" height="600" frameborder="0"></iframe>
+<iframe src="assets/danceability_popularity.html" width="800" height="600" frameborder="0"></iframe>
 
