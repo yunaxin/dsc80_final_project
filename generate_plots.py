@@ -97,7 +97,16 @@ cleaned["loudness_energy_ratio"] = cleaned["loudness"] / (cleaned["energy"] + 1e
 # Helper functions
 # -----------------------------
 def save_plot(fig, filename):
-    fig.write_html(f"assets/{filename}.html")
+    fig.update_layout(
+        width=1400,
+        height=850,
+        margin=dict(l=40, r=40, t=80, b=40)
+    )
+
+    fig.write_html(
+        f"assets/{filename}.html",
+        config={"responsive": True}
+    )
 
 
 def tvd(dist1, dist2):
