@@ -11,3 +11,7 @@ Authors: Amelia Oo, Anh Tran
 
 <h3>Confusion Matrix</h3>
 <iframe src="assets/confusion_matrix.html" width="800" height="600" frameborder="0"></iframe>
+
+<h3>Danceability vs Popularity</h3>
+<iframe src="assets/danceability_popularity.html" width="900" height="400" frameborder="0"></iframe>
+
