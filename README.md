@@ -4,4 +4,4 @@
 
 <p> This project is completed as part of the course DSC 80 during Spring 2026 at UC San Diego</p>
 
-Authors: Amelia Oo, Mia Tran
+Authors: Amelia Oo, Anh Tran
