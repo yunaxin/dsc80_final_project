@@ -6,12 +6,15 @@
 
 Authors: Amelia Oo, Anh Tran
 
-<h3>Popularity Distribution</h3>
+<h2>Popularity Distribution</h2>
+
 <iframe src="assets/popularity_distribution.html" width="900" height="600" frameborder="0"></iframe>
 
-<h3>Confusion Matrix</h3>
+<h2>Confusion Matrix</h2>
+
 <iframe src="assets/confusion_matrix.html" width="800" height="600" frameborder="0"></iframe>
 
-<h3>Danceability vs Popularity</h3>
+<h2>Danceability vs Popularity</h2>
+
 <iframe src="assets/danceability_popularity.html" width="900" height="600" frameborder="0"></iframe>
 
