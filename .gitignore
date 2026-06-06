@@ -19,3 +19,5 @@ __pycache__/
 # Ignore project files
 eda.ipynb
 project4/
+
+.DS_Store
