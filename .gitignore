@@ -15,3 +15,7 @@ Data/audio_samples/
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+# Ignore project files
+eda.ipynb
+project4/
